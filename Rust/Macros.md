@@ -1,0 +1,1 @@
+When a function call is followed by a `!` character, the call turns into a macro invocation.
