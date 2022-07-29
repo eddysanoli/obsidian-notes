@@ -50,7 +50,7 @@ fn parse_pair<T: FromStr>(s: &str, separator: char) -> Option<(T, T)> {
 
 }
 ```
-In this case, the clause `<T: FromStr>` can be read as "For any type T that implements the FromStr trait". This effectively lets us define functions for multiple types at once:
+In this case, the clause `<T: FromStr>` can be read as "For any type T that implements the FromStr trait". T in this cased is called a "type parameter", and it effectively lets us define functions for multiple types at once:
 
 - parse_pair::<i32>: Parses pairs of i32 values
 - parse_pair::<f64>: Parses pairs of f64 values 
