@@ -27,6 +27,7 @@ Marks can be used to set a point where you want to be continuously going to duri
 - `ma`: Create a marker "a" in the current line
 - `backtick+a` or `'a`: Jump to marker "a". The backtick jumps to the beginning of the entire line and the apostrophe jumps to the first non-blank character.
 - `:markers`: List all the available markers in the current file. 
+- `"+p` : Copy from clipboard instead from the register
 
 ## Surround Plugin
 
