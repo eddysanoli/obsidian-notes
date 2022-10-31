@@ -1,4 +1,4 @@
-#  <% tp.file.title %>
+# <% tp.file.title %>
 Created on: <% tp.date.now() %>
 
 ---
@@ -22,7 +22,7 @@ Brief description of the "<% tp.file.title %>" task
 
 ## Notes
 
-<% tp.date.now() %>
+[[<% tp.date.now() %>]]
 Need to add something else while you were working on it? Put it here and add a timestamp
 
 
