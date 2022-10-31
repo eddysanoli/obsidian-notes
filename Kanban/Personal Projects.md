@@ -10,7 +10,7 @@ kanban-plugin: basic
 
 ## Planning / TODO
 
-- [ ] [[Create a systemd service for the terraria server]] #gaming-server @[[2022-10-31]]
+- [ ] Create a systemd service for the terraria server #gaming-server @[[2022-10-31]]
 
 
 ## In Progress
