@@ -16,6 +16,9 @@ kanban-plugin: basic
 - [ ] [[Refactor Bot Code]] #discord-bot
 - [ ] [[Link Bot with Gaming Server]] #discord-bot #gaming-server
 - [ ] [[Add Worlds S3 Bucket]] #gaming-server
+- [ ] [[CCNA Training]]
+- [ ] [[Ethical Hacking]]
+- [ ] Use Pocketbase as the Backend for "Infinito27.com" #infinito27.com
 
 
 ## In Progress
