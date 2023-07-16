@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"7ac835a234405301","x":-620,"y":-340,"width":405,"height":150,"type":"text","text":"Debería de iniciar con una introducción súper quemada como: Hola soy Eduardo - Web Developer. Pero luego llega un muñequito 3D mío y se tropieza y bota esa página."},
+		{"id":"e283bc95a46a2c47","x":320,"y":-340,"width":285,"height":150,"type":"text","text":"Actualizar Automáticamente mi CV usando los datos de mi Linkedin"},
+		{"id":"2d4358b2be1c40f7","x":-100,"y":-310,"width":285,"height":90,"type":"text","text":"Debe contar con secciones automáticas que utilicen APIs"},
+		{"id":"66ba34fd8a420c0c","x":320,"y":-140,"width":285,"height":125,"type":"text","text":"Tomar dibujos y otras imágenes de Instagram filtrando por un tag específico"},
+		{"id":"99dd1cff5ab4454a","x":320,"y":35,"width":250,"height":60,"type":"text","text":"Mostrar estadísticas de github en tiempo real"},
+		{"id":"63a9db607addefe4","x":-1120,"y":-340,"width":385,"height":150,"type":"text","text":"Mezclar secciones con partes animadas a mano con animaciones rasterizadas, otras en 3D y otras con SVGs usando Rive"},
+		{"id":"5a1e18b8f1373c49","x":-542,"y":-107,"width":250,"height":60,"type":"text","text":"Demos interactivos"},
+		{"id":"059db4e88e05adaa","x":-160,"y":65,"width":287,"height":150,"type":"text","text":"Tetris que se juega solo con reinforcement learning pero que parece que está jugando mi muñequito"},
+		{"id":"16925d28b4046ea1","x":-542,"y":65,"width":247,"height":150,"type":"text","text":"Crear una réplica de la mesa de robotitos de mi tesis pero con robotitos chiquitos y lindos"}
+	],
+	"edges":[
+		{"id":"35b7b63f24f75759","fromNode":"7ac835a234405301","fromSide":"right","toNode":"2d4358b2be1c40f7","toSide":"left"},
+		{"id":"c225f348730e2367","fromNode":"2d4358b2be1c40f7","fromSide":"right","toNode":"e283bc95a46a2c47","toSide":"left"},
+		{"id":"5b8f2b1b69b44546","fromNode":"2d4358b2be1c40f7","fromSide":"bottom","toNode":"66ba34fd8a420c0c","toSide":"left"},
+		{"id":"94722c2990fd6046","fromNode":"2d4358b2be1c40f7","fromSide":"bottom","toNode":"99dd1cff5ab4454a","toSide":"left"},
+		{"id":"9f5d004bdcec105a","fromNode":"7ac835a234405301","fromSide":"left","toNode":"63a9db607addefe4","toSide":"right"},
+		{"id":"52313241a565f041","fromNode":"7ac835a234405301","fromSide":"bottom","toNode":"5a1e18b8f1373c49","toSide":"top"},
+		{"id":"8a1bab30a598e110","fromNode":"5a1e18b8f1373c49","fromSide":"right","toNode":"059db4e88e05adaa","toSide":"top"},
+		{"id":"ab5940ce3f943346","fromNode":"5a1e18b8f1373c49","fromSide":"bottom","toNode":"16925d28b4046ea1","toSide":"top"}
+	]
+}

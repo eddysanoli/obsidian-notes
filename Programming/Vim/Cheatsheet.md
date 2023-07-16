@@ -70,6 +70,7 @@ Marks can be used to set a point where you want to be continuously going to duri
 
 ### Multiple Cursors
 - `/{search}gb` : Puts the cursor on top of your match and then when you type `gb`, you will add a cursor to the next match. You can edit multiple matches by then typing an operator.
+[[Module 1 - Lecture 5 - Example Critical Point]]
 
 ### VSCode Mappings
 - `gh` : Simulate the mouse hovering over an element.
