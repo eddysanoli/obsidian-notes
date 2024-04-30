@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "e4f9094e5d4cb52f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc9bd1fa5827bffb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vim/Cheatsheet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c803356f99e77796",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf33db5dcff970e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb67f15b89d43b66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f3913f77ef4ef5c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a72947d3180c2661",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a1dc35f747476e1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7c6b7a7324a85d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3e6af77120612a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vim/Cheatsheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dc9bd1fa5827bffb",
+  "lastOpenFiles": [
+    "Vim/Cheatsheet.md",
+    "Excalidraw/Drawing 2022-10-05 10.16.41.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-05 10.12.58.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-05 10.16.18.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-05 10.14.59.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-05 10.14.41.excalidraw.md",
+    "CSS/Selectors - Lobotomized Owl.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Python/Puppet/Puppet Principles.md"
+  ]
+}

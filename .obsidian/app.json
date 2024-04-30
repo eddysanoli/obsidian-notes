@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": true,
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "Assets",
+  "userIgnoreFilters": [
+    "_gsdata_/"
+  ]
+}

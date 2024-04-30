@@ -1,6 +1,8 @@
 # Vim Cheatsheet
 For useful commands that I have seen in videos and other places, and I will use from time to time. I will probably just list the source of motion and then the motion itself with its use.
 
+- Conseguir un chuchesh bien pubecito ([[2023-07-21]])
+
 ## [Vim Tips You Probably Never Heard Of](https://www.youtube.com/watch?v=bQfFvExpZDU&ab_channel=LukeSmith)
 
 - `gj` and `gk`: Move cursor up and down single section of long sentence if the line is wrapped.
@@ -15,6 +17,7 @@ For useful commands that I have seen in videos and other places, and I will use 
 - `gJ`: Join lines without spaces in between 
 - `g&`: Substitute something in the entire file
 - `:s/word/new_word/g`: Substitute "word" by "new_word" in the current line
+- `:%s/word/new_word/g`: Substitute "word" by "new_word" in the entire file. You can also add the parameter `i` to make it case insensitive (`:%s/word/new_word/gi`)
 
 ## [Vim Motions and Command Language](http://springest.io/vim-motions-and-command-language)
 

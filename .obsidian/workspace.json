@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "e4f9094e5d4cb52f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3943769e8c9a3ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb49d676f14368d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Bosterbio/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c803356f99e77796",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf33db5dcff970e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb67f15b89d43b66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#infinito27",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f3913f77ef4ef5c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a72947d3180c2661",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1678302fa6df675a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "a1dc35f747476e1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7c6b7a7324a85d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3e6af77120612a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work/Bosterbio/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c03b9f18fbad36e4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f583689b00bc0f13",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "93e6f715d95b522a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ccb49d676f14368d",
+  "lastOpenFiles": [
+    "Work/Bosterbio/ELISA Data Upload Tutorial.pdf",
+    "Work/Bosterbio/Notes.md",
+    "Work/Bosterbio/TODOs.md",
+    "Work/GuestTek/Quick Notes/GTK - Quick Note (2024-04-04).md",
+    "Work/Bosterbio/Quick Notes/Boster - Quick Note (2022-12-29).md",
+    "Work/Bosterbio/Quick Notes/Boster - Quick Note (2022-11-24).md",
+    "Work/Bosterbio/Quick Notes/Boster - Quick Note (2022-11-02).md",
+    "Work/BoostLab/Juuri/Reference.pdf",
+    "Programming/Vim/Cheatsheet.md",
+    "Regalos/Amorcito.md",
+    "Regalos/Amigos.md",
+    "Work/GuestTek/Quick Notes/GTK - Quick Note (2023-01-30).md",
+    "Programming/Eddysanoli.com.canvas",
+    "Untitled",
+    "Regalos/Papa y Mama.md",
+    "Data Science Master/Data Analysis - Statistical Modelling and Computation in Applications/Module 1/Lecture 5 - Gradient Descent.md",
+    "Excalidraw/Module 1 - Lecture 2 - Hypergeometric Distribution.md",
+    "Excalidraw/Drawing 2023-02-08 00.06.01.excalidraw.md",
+    "Excalidraw/Module 1 - 1 Sided Test vs. 2 Sided Test.md",
+    "Excalidraw/Drawing 2023-02-07 17.37.23.excalidraw.md"
+  ]
+}

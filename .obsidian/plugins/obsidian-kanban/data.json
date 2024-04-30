@@ -1,0 +1,31 @@
+{
+  "new-note-folder": "Kanban/Tasks",
+  "hide-tags-in-title": true,
+  "tag-colors": [
+    {
+      "tagKey": "#gaming-server",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(255, 130, 0, 1)"
+    },
+    {
+      "tagKey": "#discord-bot",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(63, 80, 141, 1)"
+    },
+    {
+      "tagKey": "#eddysanoli.com",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(213, 64, 64, 1)"
+    },
+    {
+      "tagKey": "#infinito27.com",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(143, 123, 210, 1)"
+    }
+  ],
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "show-checkboxes": true,
+  "hide-date-in-title": true,
+  "new-note-template": "Templates/Kanban Task.md"
+}
