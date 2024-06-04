@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Bosterbio/Notes.md",
+                "file": "Programming/Vim/Neovim Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Bosterbio/Notes.md",
+                "file": "Programming/Vim/Neovim Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,13 +154,14 @@
   },
   "active": "ccb49d676f14368d",
   "lastOpenFiles": [
-    "Work/Bosterbio/ELISA Data Upload Tutorial.pdf",
     "Work/Bosterbio/Notes.md",
-    "Work/Bosterbio/TODOs.md",
-    "Work/GuestTek/Quick Notes/GTK - Quick Note (2024-04-04).md",
+    "Programming/Vim/Neovim Setup.md",
     "Work/Bosterbio/Quick Notes/Boster - Quick Note (2022-12-29).md",
     "Work/Bosterbio/Quick Notes/Boster - Quick Note (2022-11-24).md",
     "Work/Bosterbio/Quick Notes/Boster - Quick Note (2022-11-02).md",
+    "Work/Bosterbio/ELISA Data Upload Tutorial.pdf",
+    "Work/Bosterbio/TODOs.md",
+    "Work/GuestTek/Quick Notes/GTK - Quick Note (2024-04-04).md",
     "Work/BoostLab/Juuri/Reference.pdf",
     "Programming/Vim/Cheatsheet.md",
     "Regalos/Amorcito.md",
