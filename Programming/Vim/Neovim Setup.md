@@ -33,3 +33,14 @@
 17. Some languages require you to install an `nvim` package for them to work
 	- Node: `npm install -g nvim`
 	- Python: `pip install nvim`
+18. Remove some default keybindings if you are using powershell
+	- `Remove-PSReadlineKeyHandler -Chord ctrl+j`
+	- `Remove-PSReadlineKeyHandler -Chord ctrl+k`
+19. Install lazy.git: `choco install lazygit`
+20. Install all of the packages needed to get python code editing working as intended
+	- `pip install mypy`
+	- `pip install isort`
+	- [`pip install python-lsp-server`](https://github.com/python-lsp/python-lsp-server/?tab=readme-ov-file#configuration)
+	- [`pip install pylsp-rope`](https://github.com/python-rope/pylsp-rope)
+	- [`pip install python-lsp-ruff`](https://github.com/python-lsp/python-lsp-ruff)
+`
