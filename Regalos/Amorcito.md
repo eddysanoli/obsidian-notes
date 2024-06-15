@@ -1,0 +1,23 @@
+- [ ] Sitio web con nuestras memorias
+- [ ] Esculturitas de nosotros con un botoncito y un corazoncito que se ilumina, para mandar amorcito a distancia. 
+	- Necesitaría aprender blender para modelar a cada uno
+	- Hacer un pequeño PCB con un micro que enciende la lucecita cuando recibe una señal
+	- Necesito aprender como sincronizar el micro con wifi, para que contacte un servidor que recibe la señal del muñequito cuando se presiona el botoncito
+- [x] Botitas negras
+- [ ] Zapatitos bonitos Nike
+	- No me sé su talla. Creo que este sería la opción más segura, pero no sé que tamaño comprarle.
+- [ ] Peluche de pulpito
+- [ ] Onesie de dinosaurio, o de sully de monsters inc.
+- [ ] Impresora de fotos de teléfono con las fotos Fujifilm
+- [ ] Viajecito para allá 
+	- Muy complicado. No estoy seguro de si quiero o no hacerlo.
+- [ ] Alexa con bombilla inteligente
+	- Muy utilitario. Esto sería como un regalito casual
+- [ ] Me dijo que ella extrañaba el cereal de las estrellitas del monstruo amarillo el 6/01/23. Cuando venga le puedo comprar una.
+- [ ] Una pizza de camperitos. También dijo que tenía antojito el 6/01/23
+- [x] Dull Duck Sleep Lamp (Benson). Lampara patito
+- [ ] Holzkern. Un collarcito (Se me ocurrió, ella no me ha dicho que lo quiere)
+	- Un poco genérico. Ya le he regalado otros. No es muy recomendado.
+- [ ] Mapita raspable para ir marcando a donde ha ido
+- [ ] Ramito de boba teas
+	![[Pasted image 20230119162627.png]]

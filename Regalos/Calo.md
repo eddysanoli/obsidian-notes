@@ -1,0 +1,1 @@
+- [Puntas de diamante](https://www.amazon.com/Diamondback-Nozzles-Compatible-Polycrystalline-Efficiency/dp/B09LLWY2YK?keywords=diamondback%2Bnozzle&qid=1672185140&sr=8-3&linkCode=sl1&tag=zackfreedman-20&linkId=802e927ab69fdd0328f8b043c14c37c0&language=en_US&ref_=as_li_ss_tl&th=1) para la impresora 3D
